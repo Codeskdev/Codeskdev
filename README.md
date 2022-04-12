@@ -11,7 +11,7 @@
 
 <img align="left" src="https://lanyard-profile-readme.vercel.app/api/582169443354804235?bg=0D1117&borderRadius=30px&idleMessage=[Probably%20doing%20something%20else..]&hideStatus=true" />
 <img align="left" src="https://lanyard-profile-readme.vercel.app/api/939851664389730304?bg=0D1117&borderRadius=30px&idleMessage=[Probably%20doing%20something%20else..]&hideStatus=true" />
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/>
   
 ## 📊 Codesk Github Statları;
 
