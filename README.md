@@ -1,3 +1,4 @@
+
 ## 🚀 Hizmetlerimiz ve projelerimiz;
 
 - 🔭 Ücretsiz yazılım derslerimize [buraya](https://github.com/Renanuya/) tıklayarak ulaşabilirsiniz.
@@ -9,10 +10,9 @@
 ## ✍🏻 Yazarlarımız;
 
 <img align="left" src="https://lanyard-profile-readme.vercel.app/api/582169443354804235?bg=0D1117&borderRadius=30px&idleMessage=[Probably%20doing%20something%20else..]&hideStatus=true" />
-<img align="left" src="https://lanyard-profile-readme.vercel.app/api/939851664389730304?bg=0D1117&borderRadius=30px&idleMessage=[Probably%20doing%20something%20else..]&hideStatus=true" />
-<br/><br/>
-- İletişim; [Roxza](https://https://discord.com/users/939851664389730304) & ['Lu](https://https://discord.com/users/582169443354804235)
-
+<img align="right" src="https://lanyard-profile-readme.vercel.app/api/939851664389730304?bg=0D1117&borderRadius=30px&idleMessage=[Probably%20doing%20something%20else..]&hideStatus=true" />
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+  
 ## 📊 Codesk Github Statları;
 
 <p align="center">
@@ -26,15 +26,14 @@
   <br/>
 <br/>
 
-<a href="https://github.com/Codeskdev/github-readme-activity-graph"><img alt="'Lu's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Codeskdev&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Codeskdev/github-readme-activity-graph"><img alt="Codesk Aktivite Grafiği" src="https://activity-graph.herokuapp.com/graph?username=Codeskdev&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
 
-## ❤ Views and Followers
+## ❤ Görüntülenme ve takipçiler
 
 <p align="center">
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter"> <img src="https://komarev.com/ghpvc/?username=Codeskdev"></a>
 <a href="https://github.com/LuWasHere?tab=followers"><img src="https://img.shields.io/github/followers/Codeskdev?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
-
