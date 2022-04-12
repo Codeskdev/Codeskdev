@@ -6,11 +6,12 @@
 
 - 📙 [Codesk](https://discord.gg/qeRAR8W67r/) discord sunucusu.
 
-## Yazarlarımız;
+## ✍🏻 Yazarlarımız;
 
-<img align="right" src="https://lanyard-profile-readme.vercel.app/api/582169443354804235?bg=0D1117&borderRadius=30px&idleMessage=[Probably%20doing%20something%20else..]&hideStatus=true" />
+<img align="left" src="https://lanyard-profile-readme.vercel.app/api/582169443354804235?bg=0D1117&borderRadius=30px&idleMessage=[Probably%20doing%20something%20else..]&hideStatus=true" />
 <img align="left" src="https://lanyard-profile-readme.vercel.app/api/939851664389730304?bg=0D1117&borderRadius=30px&idleMessage=[Probably%20doing%20something%20else..]&hideStatus=true" />
-<br/><br/><br/>
+<br/><br/>
+- İletişim; [Roxza](https://https://discord.com/users/939851664389730304) & ['Lu](https://https://discord.com/users/582169443354804235)
 
 ## 📊 Codesk Github Statları;
 
